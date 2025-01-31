@@ -1,5 +1,6 @@
 # Online_Book_Store_Analysis_using_SQL
 
+## Basic_Questions
 -- 1) Retrieve all books in the "Fiction" genre:
 
 
@@ -33,7 +34,7 @@
 
 -- 11) Calculate the total revenue generated from all orders:
 
--- Advance Questions : 
+## Advance_Questions : 
 
 -- 1) Retrieve the total number of books sold for each genre:
 
